@@ -6,5 +6,6 @@ export default {
 	},
 	myFun2: async () => {
 		//use async-await or promises
+		// testing the js code as i know how to code in js
 	}
 }
