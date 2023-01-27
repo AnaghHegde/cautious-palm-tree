@@ -19,7 +19,7 @@
           "parentRowSpace": 1,
           "type": "CANVAS_WIDGET",
           "canExtend": true,
-          "version": 59,
+          "version": 76,
           "minHeight": 840,
           "parentColumnSpace": 1,
           "dynamicTriggerPathList": [],
@@ -249,6 +249,7 @@
               "isRequired": false,
               "rightColumn": 41,
               "defaultSelectedValues": "BLUE",
+              "dynamicHeight": "FIXED",
               "widgetId": "73yalpteii",
               "accentColor": "#03B365",
               "isVisible": true,
@@ -257,7 +258,9 @@
               "renderMode": "CANVAS",
               "isLoading": false,
               "borderRadius": "0px",
-              "isInline": true
+              "maxDynamicHeight": 9000,
+              "isInline": true,
+              "minDynamicHeight": 4
             }
           ]
         },
@@ -273,6 +276,7 @@
             }
           ]
         ],
+        "layoutOnLoadActionErrors": [],
         "mongoEscapedWidgetNames": [
           "Table1"
         ],
