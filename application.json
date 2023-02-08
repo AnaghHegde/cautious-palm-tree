@@ -10,6 +10,7 @@
   "unreadCommentThreads": 0,
   "color": "#FFEBFB",
   "icon": "flight",
+  "unpublishedCustomJSLibs": [],
   "publishedCustomJSLibs": [],
   "evaluationVersion": 2,
   "applicationVersion": 2,
