@@ -1,1 +1,43 @@
-{"scannerLayout":"ALWAYS_ON","boxShadow":"none","widgetName":"CodeScanner1","buttonColor":"{{appsmith.theme.colors.primaryColor}}","displayName":"Code Scanner","iconSVG":"/static/media/icon.c4a2da6d32c0f212d031fca147e4f7cb.svg","searchTags":["barcode scanner","qr scanner","code detector","barcode reader"],"topRow":59,"bottomRow":92,"parentRowSpace":10,"type":"CODE_SCANNER_WIDGET","hideCard":false,"animateLoading":true,"parentColumnSpace":12.5625,"leftColumn":29,"dynamicBindingPathList":[{"key":"buttonColor"},{"key":"borderRadius"}],"isDisabled":false,"key":"f9cokd7qep","isRequired":false,"isDeprecated":false,"rightColumn":54,"isDefaultClickDisabled":true,"widgetId":"cq59wg1lpy","isVisible":true,"label":"Scan a QR/Barcode","version":1,"parentId":"0","renderMode":"CANVAS","isLoading":false,"borderRadius":"{{appsmith.theme.borderRadius.appBorderRadius}}","placement":"CENTER"}
+{
+    "scannerLayout": "ALWAYS_ON",
+    "boxShadow": "none",
+    "widgetName": "CodeScanner1",
+    "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
+    "displayName": "Code Scanner",
+    "iconSVG": "/static/media/icon.c4a2da6d32c0f212d031fca147e4f7cb.svg",
+    "searchTags": [
+        "barcode scanner",
+        "qr scanner",
+        "code detector",
+        "barcode reader"
+    ],
+    "topRow": 60,
+    "bottomRow": 93,
+    "parentRowSpace": 10,
+    "type": "CODE_SCANNER_WIDGET",
+    "hideCard": false,
+    "animateLoading": true,
+    "parentColumnSpace": 12.5625,
+    "leftColumn": 29,
+    "dynamicBindingPathList": [
+        {"key": "buttonColor"},
+        {"key": "borderRadius"}
+    ],
+    "isDisabled": false,
+    "key": "f9cokd7qep",
+    "isRequired": false,
+    "isDeprecated": false,
+    "rightColumn": 54,
+    "isDefaultClickDisabled": true,
+    "widgetId": "cq59wg1lpy",
+    "isVisible": true,
+    "label": "Scan a QR/Barcode",
+    "version": 1,
+    "parentId": "0",
+    "renderMode": "CANVAS",
+    "isLoading": false,
+    "originalTopRow": 59,
+    "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+    "originalBottomRow": 92,
+    "placement": "CENTER"
+}

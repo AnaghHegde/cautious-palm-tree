@@ -1,1 +1,26 @@
-{"widgetName":"MainContainer","backgroundColor":"none","rightColumn":604,"snapColumns":64,"detachFromLayout":true,"widgetId":"0","topRow":0,"bottomRow":520,"containerStyle":"none","snapRows":125,"parentRowSpace":1,"type":"CANVAS_WIDGET","canExtend":true,"version":77,"minHeight":840,"parentColumnSpace":1,"dynamicTriggerPathList":[],"dynamicBindingPathList":[],"leftColumn":0,"children":["p3bnvwffdo","dt2sa4q02v","73yalpteii"]}
+{
+    "widgetName": "MainContainer",
+    "backgroundColor": "none",
+    "rightColumn": 604,
+    "snapColumns": 64,
+    "detachFromLayout": true,
+    "widgetId": "0",
+    "topRow": 0,
+    "bottomRow": 520,
+    "containerStyle": "none",
+    "snapRows": 125,
+    "parentRowSpace": 1,
+    "type": "CANVAS_WIDGET",
+    "canExtend": true,
+    "version": 77,
+    "minHeight": 840,
+    "parentColumnSpace": 1,
+    "dynamicTriggerPathList": [],
+    "dynamicBindingPathList": [],
+    "leftColumn": 0,
+    "children": [
+        "p3bnvwffdo",
+        "dt2sa4q02v",
+        "73yalpteii"
+    ]
+}

@@ -1,1 +1,59 @@
-{"widgetName":"CategorySlider1","displayName":"Category Slider","iconSVG":"/static/media/icon.cbd0db7a0bd317a6e4cbbd72417f8dee.svg","labelText":"Size","searchTags":["range"],"topRow":19,"bottomRow":27,"parentRowSpace":10,"labelWidth":5,"type":"CATEGORY_SLIDER_WIDGET","hideCard":false,"defaultOptionValue":"md","animateLoading":true,"parentColumnSpace":12.5625,"leftColumn":0,"dynamicBindingPathList":[{"key":"accentColor"}],"shouldTruncate":false,"labelPosition":"Left","options":[{"label":"Extra Small","value":"xs"},{"label":"Small","value":"sm"},{"label":"Medium","value":"md"},{"label":"Large","value":"lg"},{"label":"Extra Large","value":"xl"}],"isDisabled":false,"key":"ksqvfr5v71","labelTextSize":"0.875rem","isDeprecated":false,"rightColumn":24,"widgetId":"8effc4zc4r","accentColor":"{{appsmith.theme.colors.primaryColor}}","isVisible":true,"sliderSize":"m","shouldScroll":false,"version":1,"parentId":"0","labelAlignment":"left","renderMode":"CANVAS","isLoading":false,"responsiveBehavior":"fill","showMarksLabel":true}
+{
+    "widgetName": "CategorySlider1",
+    "displayName": "Category Slider",
+    "iconSVG": "/static/media/icon.cbd0db7a0bd317a6e4cbbd72417f8dee.svg",
+    "labelText": "Size",
+    "searchTags": ["range"],
+    "topRow": 19,
+    "bottomRow": 27,
+    "parentRowSpace": 10,
+    "labelWidth": 5,
+    "type": "CATEGORY_SLIDER_WIDGET",
+    "hideCard": false,
+    "defaultOptionValue": "md",
+    "animateLoading": true,
+    "parentColumnSpace": 12.5625,
+    "leftColumn": 0,
+    "dynamicBindingPathList": [{"key": "accentColor"}],
+    "shouldTruncate": false,
+    "labelPosition": "Left",
+    "options": [
+        {
+            "label": "Extra Small",
+            "value": "xs"
+        },
+        {
+            "label": "Small",
+            "value": "sm"
+        },
+        {
+            "label": "Medium",
+            "value": "md"
+        },
+        {
+            "label": "Large",
+            "value": "lg"
+        },
+        {
+            "label": "Extra Large",
+            "value": "xl"
+        }
+    ],
+    "isDisabled": false,
+    "key": "ksqvfr5v71",
+    "labelTextSize": "0.875rem",
+    "isDeprecated": false,
+    "rightColumn": 24,
+    "widgetId": "8effc4zc4r",
+    "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+    "isVisible": true,
+    "sliderSize": "m",
+    "shouldScroll": false,
+    "version": 1,
+    "parentId": "0",
+    "labelAlignment": "left",
+    "renderMode": "CANVAS",
+    "isLoading": false,
+    "responsiveBehavior": "fill",
+    "showMarksLabel": true
+}
