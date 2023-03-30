@@ -1,0 +1,56 @@
+{
+  "map": {
+    "accentColor": "#03B365",
+    "animateLoading": true,
+    "borderRadius": "0px",
+    "bottomRow": 52,
+    "boxShadow": "none",
+    "defaultSelectedValues": "BLUE",
+    "displayName": "Checkbox Group",
+    "dynamicHeight": "FIXED",
+    "hideCard": false,
+    "iconSVG": "/static/media/icon.ecb38479.svg",
+    "isDisabled": false,
+    "isInline": true,
+    "isLoading": false,
+    "isRequired": false,
+    "isVisible": true,
+    "key": "6kpgtwzmjs",
+    "labelTextSize": "0.875rem",
+    "leftColumn": 25,
+    "maxDynamicHeight": 9000,
+    "minDynamicHeight": 4,
+    "options": {
+      "myArrayList": [
+        {
+          "map": {
+            "label": "Blue",
+            "value": "BLUE"
+          }
+        },
+        {
+          "map": {
+            "label": "Green",
+            "value": "GREEN"
+          }
+        },
+        {
+          "map": {
+            "label": "Red",
+            "value": "RED"
+          }
+        }
+      ]
+    },
+    "parentColumnSpace": 9.25,
+    "parentId": "0",
+    "parentRowSpace": 10,
+    "renderMode": "CANVAS",
+    "rightColumn": 41,
+    "topRow": 46,
+    "type": "CHECKBOX_GROUP_WIDGET",
+    "version": 2,
+    "widgetId": "73yalpteii",
+    "widgetName": "CheckboxGroup1"
+  }
+}

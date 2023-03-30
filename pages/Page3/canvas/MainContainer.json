@@ -1,0 +1,27 @@
+{
+  "map": {
+    "backgroundColor": "none",
+    "bottomRow": 860,
+    "canExtend": true,
+    "children": {
+      "myArrayList": []
+    },
+    "containerStyle": "none",
+    "detachFromLayout": true,
+    "dynamicBindingPathList": {
+      "myArrayList": []
+    },
+    "leftColumn": 0,
+    "minHeight": 870,
+    "parentColumnSpace": 1,
+    "parentRowSpace": 1,
+    "rightColumn": 1224,
+    "snapColumns": 64,
+    "snapRows": 85,
+    "topRow": 0,
+    "type": "CANVAS_WIDGET",
+    "version": 77,
+    "widgetId": "0",
+    "widgetName": "MainContainer"
+  }
+}

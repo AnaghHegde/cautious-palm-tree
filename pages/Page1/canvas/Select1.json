@@ -1,0 +1,54 @@
+{
+  "map": {
+    "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+    "animateLoading": true,
+    "borderRadius": "0px",
+    "bottomRow": 37,
+    "boxShadow": "none",
+    "defaultOptionValue": "{{\n            {\n              label: Select1.options[0].label,\n              value: Select1.options[0].value\n            }\n          }}",
+    "displayName": "Select",
+    "dynamicBindingPathList": {
+      "myArrayList": [
+        {
+          "map": {
+            "key": "options"
+          }
+        },
+        {
+          "map": {
+            "key": "defaultOptionValue"
+          }
+        },
+        {
+          "map": {
+            "key": "accentColor"
+          }
+        }
+      ]
+    },
+    "hideCard": true,
+    "iconSVG": "/static/media/icon.bd99caba.svg",
+    "isDisabled": false,
+    "isFilterable": false,
+    "isLoading": false,
+    "isRequired": false,
+    "isVisible": true,
+    "key": "wdmo6zy8bh",
+    "labelText": "Label",
+    "labelTextSize": "0.875rem",
+    "leftColumn": 0,
+    "options": "{{Query1.data.map( (obj) =>{ return  {'label': obj.name, 'value': obj.name } })}}",
+    "parentId": "0",
+    "parentRowSpace": 10,
+    "placeholderText": "Select option",
+    "renderMode": "CANVAS",
+    "rightColumn": 20,
+    "selectionType": "SINGLE_SELECT",
+    "serverSideFiltering": false,
+    "topRow": 30,
+    "type": "DROP_DOWN_WIDGET",
+    "version": 1,
+    "widgetId": "dt2sa4q02v",
+    "widgetName": "Select1"
+  }
+}
