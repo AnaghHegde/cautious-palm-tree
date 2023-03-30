@@ -6,7 +6,7 @@
     "detachFromLayout": true,
     "widgetId": "0",
     "topRow": 0,
-    "bottomRow": 520,
+    "bottomRow": 610,
     "containerStyle": "none",
     "snapRows": 125,
     "parentRowSpace": 1,
@@ -21,6 +21,7 @@
     "children": [
         "p3bnvwffdo",
         "dt2sa4q02v",
-        "73yalpteii"
+        "73yalpteii",
+        "z846wxoaw0"
     ]
 }
