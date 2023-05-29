@@ -5,6 +5,323 @@
     "layouts": [
       {
         "viewMode": false,
+        "dsl": {
+          "widgetName": "MainContainer",
+          "backgroundColor": "none",
+          "rightColumn": 1224,
+          "snapColumns": 64,
+          "detachFromLayout": true,
+          "widgetId": "0",
+          "topRow": 0,
+          "bottomRow": 930,
+          "containerStyle": "none",
+          "snapRows": 85,
+          "parentRowSpace": 1,
+          "type": "CANVAS_WIDGET",
+          "canExtend": true,
+          "version": 77,
+          "minHeight": 870,
+          "parentColumnSpace": 1,
+          "dynamicBindingPathList": [],
+          "leftColumn": 0,
+          "children": [
+            {
+              "widgetName": "CheckboxGroup1",
+              "displayName": "Checkbox Group",
+              "iconSVG": "/static/media/icon.ecb3847950c4515966ef642a32758afb.svg",
+              "labelText": "Label",
+              "topRow": 28,
+              "bottomRow": 35,
+              "parentRowSpace": 10,
+              "labelWidth": 5,
+              "type": "CHECKBOX_GROUP_WIDGET",
+              "hideCard": false,
+              "animateLoading": true,
+              "parentColumnSpace": 12.5625,
+              "leftColumn": 14,
+              "dynamicBindingPathList": [
+                {
+                  "key": "accentColor"
+                },
+                {
+                  "key": "borderRadius"
+                }
+              ],
+              "labelPosition": "Top",
+              "options": [
+                {
+                  "label": "Blue",
+                  "value": "BLUE"
+                },
+                {
+                  "label": "Green",
+                  "value": "GREEN"
+                },
+                {
+                  "label": "Red",
+                  "value": "RED"
+                }
+              ],
+              "isDisabled": false,
+              "key": "d0shkq38cs",
+              "labelTextSize": "0.875rem",
+              "isRequired": false,
+              "isDeprecated": false,
+              "rightColumn": 37,
+              "defaultSelectedValues": [
+                "BLUE"
+              ],
+              "dynamicHeight": "AUTO_HEIGHT",
+              "widgetId": "c7mt49e354",
+              "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+              "minWidth": 450,
+              "isVisible": true,
+              "version": 2,
+              "parentId": "0",
+              "labelAlignment": "left",
+              "renderMode": "CANVAS",
+              "isLoading": false,
+              "responsiveBehavior": "fill",
+              "originalTopRow": 27,
+              "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+              "maxDynamicHeight": 9000,
+              "originalBottomRow": 34,
+              "isInline": true,
+              "minDynamicHeight": 4
+            },
+            {
+              "boxShadow": "none",
+              "iconSVG": "/static/media/icon.f312efcb48ce4dafb08c20291635b30b.svg",
+              "topRow": 48,
+              "defaultCurrencyCode": "USD",
+              "labelWidth": 5,
+              "type": "CURRENCY_INPUT_WIDGET",
+              "animateLoading": true,
+              "resetOnSubmit": true,
+              "leftColumn": 10,
+              "dynamicBindingPathList": [
+                {
+                  "key": "accentColor"
+                },
+                {
+                  "key": "borderRadius"
+                }
+              ],
+              "labelStyle": "",
+              "isDisabled": false,
+              "isRequired": false,
+              "dynamicHeight": "FIXED",
+              "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+              "showStepArrows": false,
+              "isVisible": true,
+              "allowCurrencyChange": false,
+              "version": 1,
+              "isLoading": false,
+              "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+              "originalBottomRow": 54,
+              "widgetName": "CurrencyInput1",
+              "displayName": "Currency Input",
+              "searchTags": [
+                "amount",
+                "total"
+              ],
+              "bottomRow": 55,
+              "parentRowSpace": 10,
+              "autoFocus": false,
+              "hideCard": false,
+              "parentColumnSpace": 12.5625,
+              "labelPosition": "Top",
+              "key": "3uws0r8a80",
+              "labelTextSize": "0.875rem",
+              "isDeprecated": false,
+              "rightColumn": 35,
+              "widgetId": "6begjqnxlt",
+              "minWidth": 450,
+              "label": "Label",
+              "parentId": "0",
+              "labelAlignment": "left",
+              "renderMode": "CANVAS",
+              "responsiveBehavior": "fill",
+              "originalTopRow": 47,
+              "maxDynamicHeight": 9000,
+              "decimals": 0,
+              "iconAlign": "left",
+              "defaultText": "",
+              "minDynamicHeight": 4
+            },
+            {
+              "boxShadow": "none",
+              "iconSVG": "/static/media/icon.f312efcb48ce4dafb08c20291635b30b.svg",
+              "topRow": 59,
+              "defaultCurrencyCode": "USD",
+              "labelWidth": 5,
+              "type": "CURRENCY_INPUT_WIDGET",
+              "animateLoading": true,
+              "resetOnSubmit": true,
+              "leftColumn": 2,
+              "dynamicBindingPathList": [
+                {
+                  "key": "accentColor"
+                },
+                {
+                  "key": "borderRadius"
+                }
+              ],
+              "labelStyle": "",
+              "isDisabled": false,
+              "isRequired": false,
+              "dynamicHeight": "FIXED",
+              "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+              "showStepArrows": false,
+              "isVisible": true,
+              "allowCurrencyChange": false,
+              "version": 1,
+              "isLoading": false,
+              "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+              "originalBottomRow": 65,
+              "widgetName": "CurrencyInput2",
+              "displayName": "Currency Input",
+              "searchTags": [
+                "amount",
+                "total"
+              ],
+              "bottomRow": 66,
+              "parentRowSpace": 10,
+              "autoFocus": false,
+              "hideCard": false,
+              "parentColumnSpace": 12.5625,
+              "labelPosition": "Top",
+              "key": "3uws0r8a80",
+              "labelTextSize": "0.875rem",
+              "isDeprecated": false,
+              "rightColumn": 22,
+              "widgetId": "5q42a709gv",
+              "minWidth": 450,
+              "label": "Label",
+              "parentId": "0",
+              "labelAlignment": "left",
+              "renderMode": "CANVAS",
+              "responsiveBehavior": "fill",
+              "originalTopRow": 58,
+              "maxDynamicHeight": 9000,
+              "decimals": 0,
+              "iconAlign": "left",
+              "defaultText": "",
+              "minDynamicHeight": 4
+            },
+            {
+              "scannerLayout": "ALWAYS_ON",
+              "boxShadow": "none",
+              "widgetName": "CodeScanner1",
+              "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
+              "displayName": "Code Scanner",
+              "iconSVG": "/static/media/icon.c4a2da6d32c0f212d031fca147e4f7cb.svg",
+              "searchTags": [
+                "barcode scanner",
+                "qr scanner",
+                "code detector",
+                "barcode reader"
+              ],
+              "topRow": 60,
+              "bottomRow": 93,
+              "parentRowSpace": 10,
+              "type": "CODE_SCANNER_WIDGET",
+              "hideCard": false,
+              "animateLoading": true,
+              "parentColumnSpace": 12.5625,
+              "leftColumn": 29,
+              "dynamicBindingPathList": [
+                {
+                  "key": "buttonColor"
+                },
+                {
+                  "key": "borderRadius"
+                }
+              ],
+              "isDisabled": false,
+              "key": "f9cokd7qep",
+              "isRequired": false,
+              "isDeprecated": false,
+              "rightColumn": 54,
+              "isDefaultClickDisabled": true,
+              "widgetId": "cq59wg1lpy",
+              "isVisible": true,
+              "label": "Scan a QR/Barcode",
+              "version": 1,
+              "parentId": "0",
+              "renderMode": "CANVAS",
+              "isLoading": false,
+              "originalTopRow": 59,
+              "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+              "originalBottomRow": 92,
+              "placement": "CENTER"
+            },
+            {
+              "widgetName": "CheckboxGroup2",
+              "displayName": "Checkbox Group",
+              "iconSVG": "/static/media/icon.ecb3847950c4515966ef642a32758afb.svg",
+              "labelText": "Label",
+              "topRow": 4,
+              "bottomRow": 11,
+              "parentRowSpace": 10,
+              "labelWidth": 5,
+              "type": "CHECKBOX_GROUP_WIDGET",
+              "hideCard": false,
+              "animateLoading": true,
+              "parentColumnSpace": 12.5625,
+              "leftColumn": 13,
+              "dynamicBindingPathList": [
+                {
+                  "key": "accentColor"
+                },
+                {
+                  "key": "borderRadius"
+                }
+              ],
+              "labelPosition": "Top",
+              "options": [
+                {
+                  "label": "Blue",
+                  "value": "BLUE"
+                },
+                {
+                  "label": "Green",
+                  "value": "GREEN"
+                },
+                {
+                  "label": "Red",
+                  "value": "RED"
+                }
+              ],
+              "isDisabled": false,
+              "key": "d0shkq38cs",
+              "labelTextSize": "0.875rem",
+              "isRequired": false,
+              "isDeprecated": false,
+              "rightColumn": 36,
+              "defaultSelectedValues": [
+                "BLUE"
+              ],
+              "dynamicHeight": "AUTO_HEIGHT",
+              "widgetId": "gfh7d01c14",
+              "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+              "minWidth": 450,
+              "isVisible": true,
+              "version": 2,
+              "parentId": "0",
+              "labelAlignment": "left",
+              "renderMode": "CANVAS",
+              "isLoading": false,
+              "responsiveBehavior": "fill",
+              "originalTopRow": 4,
+              "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+              "maxDynamicHeight": 9000,
+              "originalBottomRow": 10,
+              "isInline": true,
+              "minDynamicHeight": 4
+            }
+          ]
+        },
         "layoutOnLoadActions": [],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
